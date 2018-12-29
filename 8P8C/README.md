@@ -8,7 +8,7 @@ All PCBs have been designed with the excellent [KiCad EDA software](http://kicad
 
 ### Amphenol RJHSE-538*x*
 
-The Amphenol RJHSE-538*x* (also RJHSE-L38*x*) series of shielded 8P8C connectors are horizontally mounted to a PCB and offer 2 LED lights (commonly, green and yellow).  This footprint is widely cloned by Chinese suppliers making for an inexpensive and readily-available solution for prototyping.
+The [Amphenol RJHSE-538*x*](https://www.amphenol-icc.com/modular-jacks-rjhse5381.html) (also [RJHSE-L38*x*](https://www.amphenol-icc.com/modular-jacks-rjhsel381.html)) series of shielded 8P8C connectors are horizontally mounted to a PCB and offer 2 LED lights (commonly, green and yellow).  This footprint is widely cloned by Chinese suppliers making for an inexpensive and readily-available solution for prototyping.
 
 * **[8P8C+LED_Horizontal](8P8C+LED_Horizontal)** Breadboard-compatible horizontal 8P8C breakout without mounting screw holes. [[*preview*](8P8C+LED_Horizontal/MCAD/8P8C+LED_Horizontal-Assembled.stl)]
 * **[8P8C+LED_Horizontal_with_mounts](8P8C+LED_Horizontal_with_mounts)** Breadboard-compatible horizontal 8P8C breakout with mounting screw holes. [[*preview*](8P8C+LED_Horizontal_with_mounts/MCAD/8P8C+LED_Horizontal_with_mounts-Assembled.stl)]
